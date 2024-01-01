@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TO-DO LIST/1.0.0": {
+        "runtime": {
+          "TO-DO LIST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TO-DO LIST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

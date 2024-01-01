@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\bin\Debug\net8.0\TO-DO LIST.exe
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\bin\Debug\net8.0\TO-DO LIST.deps.json
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\bin\Debug\net8.0\TO-DO LIST.runtimeconfig.json
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\bin\Debug\net8.0\TO-DO LIST.dll
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\bin\Debug\net8.0\TO-DO LIST.pdb
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.AssemblyInfo.cs
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.dll
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\refint\TO-DO LIST.dll
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.pdb
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\TO-DO LIST.genruntimeconfig.cache
+C:\Users\Acer\Documents\POGING JELO\programming installer\PROJECTS\TO-DO LIST\TO-DO LIST\obj\Debug\net8.0\ref\TO-DO LIST.dll
